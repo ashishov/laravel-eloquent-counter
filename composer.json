@@ -1,7 +1,7 @@
 {
     "name": "ashishov/laravel-eloquent-counter",
     "type": "library",
-    "description": ":package_description",
+    "description": "Counter for Eloquent models",
     "keywords": [
         "ashishov",
         "laravel-eloquent-counter"
@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Alex",
+            "email": "Arkasha7788@gmail.com",
+            "homepage": "https://github.com/ashishov",
             "role": "Developer"
         }
     ],
